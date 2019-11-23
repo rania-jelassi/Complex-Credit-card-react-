@@ -1,0 +1,83 @@
+.Card {
+  margin: 20px 10px;
+  width: 500px;
+  height: 313px;
+  border-radius: 25px;
+  color: white;
+  background-image: url("https://www.newshub.co.nz/dam/form-uploaded-images-ordered/2019/08/19/GettyImages-957221776-alien-planet-space-glow-et-1120-area-51.jpg");
+}
+.title {
+  font-size: 2.3rem;
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 30px;
+  padding-right: 40px;
+  font-weight: bold;
+}
+.puce {
+  margin-right: 290px;
+  border-radius: 5px;
+  width: 85px;
+  height: 70px;
+}
+.number {
+  color: white;
+  width: 320px;
+  height: 29px;
+  font-size: 1.5rem;
+  margin-left: 40px;
+  display: flex;
+  justify-content: center;
+  margin-top: 12px;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+.footer-card {
+  display: flex;
+  flex-direction: column;
+}
+.card-details {
+  display: flex;
+  justify-content: space-between;
+}
+.name {
+  font-size: 1.2rem;
+  font-weight: bold;
+  line-height: 3px;
+  margin-left: 55px;
+  margin-top: 43px;
+}
+.Year {
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: bold;
+  line-height: 20%;
+  margin-top: 17px;
+  margin-left: -70px;
+}
+.visaPosition {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 12px;
+  width: 75px;
+  height: 100px;
+}
+.change-coordonnée {
+  display: flex;
+  flex-direction: column;
+}
+.coordonnée {
+  align-items: center;
+  width: 300px;
+  margin-top: 5%;
+  border-radius: 7px;
+  height: 30px;
+}
+.form-card {
+  display: flex;
+}
+.label {
+  margin-top: 30px;
+}
