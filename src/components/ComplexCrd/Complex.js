@@ -83,7 +83,7 @@ export default class Complex extends Component {
           <input
             className="coordonnée"
             type="text"
-            maxlength="16"
+            maxLength="16"
             onChange={this.nbChange}
             // value={this.state.number}
           />
@@ -92,7 +92,7 @@ export default class Complex extends Component {
           <input
             className="coordonnée"
             type="text"
-            maxlength="20"
+            maxLength="20"
             onChange={this.nameChange}
             // value={this.state.name}
           />
